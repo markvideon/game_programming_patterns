@@ -6,5 +6,6 @@ library;
 export 'src/ch2_design_patterns/command.dart';
 export 'src/ch2_design_patterns/flyweight.dart';
 export 'src/ch2_design_patterns/observer.dart';
+export 'src/ch2_design_patterns/singleton.dart';
 
 // TODO: Export any libraries intended for clients of this package.

@@ -1,3 +1,4 @@
+import 'package:game_programming_patterns/game_programming_patterns.dart';
 import 'package:meta/meta.dart';
 
 @immutable
@@ -26,6 +27,3 @@ final class ExampleMutable implements Singleton {
   static final ExampleMutable instance =
     ExampleMutable._internal(0);
 }
-
-/// Interface for classes to explicitly communicate that they are singletons.
-abstract interface class Singleton { }
