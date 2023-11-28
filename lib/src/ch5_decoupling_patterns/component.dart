@@ -1,2 +1,3 @@
-// todo:
-// https://gameprogrammingpatterns.com/component.html
+///
+/// https://gameprogrammingpatterns.com/component.html
+abstract class Component {}
